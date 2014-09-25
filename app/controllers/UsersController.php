@@ -155,6 +155,11 @@ public function getForget($code) {
 
 }
 
+public  function  getAuth($data) {
+
+	return $data;
+}
+
 
 
 
